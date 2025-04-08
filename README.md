@@ -1,24 +1,22 @@
-<h1 align="center">Hola 👋, soy Santiago</h1>
-<h3 align="center">Desarrollador entusiasta con muchas ganas de aprender, mejorar y crear soluciones digitales que marquen la diferencia.</h3>
+<h1 align="center">Hi 👋, I'm Santiago</h1>
+<h3 align="center">Enthusiastic developer eager to learn, grow, and build impactful digital solutions.</h3>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-### 🧠 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad de Medellín** (7° semestre)  
-- 🔭 Actualmente trabajando en proyectos personales con **Flutter**, **TypeScript** y **Python**  
-- 🌱 Aprendiendo más sobre **estructuras de datos**, **buenas prácticas** y **diseño de software**  
-- 💾 Apasionado por las **bases de datos**, tanto **relacionales (MySQL, MariaDB, Microsoft SQL Server)** como **no relacionales (MongoDB, Firebase)**  
-- 👨‍💻 He trabajado en **proyectos reales** utilizando **Next.js**, **Python** y **bases de datos no SQL**, aplicando conceptos de backend y persistencia de datos  
+- 🎓 **Systems Engineering student** at **Universidad de Medellín** (7th semester)  
+- 🔭 Currently working on personal projects using **Flutter**, **TypeScript**, and **Python**  
+- 🌱 Focused on improving my knowledge in **data structures**, **best practices**, and **software design**  
+- 👨‍💻 I've worked on **real-world projects** using **Next.js**, **Python**, and **NoSQL databases**, applying backend and data persistence concepts  
+- 💾 Passionate about **databases**, both **relational (MySQL, MariaDB, Microsoft SQL Server)** and **non-relational (MongoDB, Firebase)**  
 
 ---
 
-### 🛠️ Tecnologías que uso frecuentemente
+### 🛠️ Technologies I Frequently Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql,,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql,mongodb,firebase" />
 </p>
 
 ---
@@ -32,7 +30,7 @@
 
 ---
 
-### 🔥 Racha de contribuciones
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=07santiago21&theme=tokyonight&hide_border=true" />
@@ -40,7 +38,7 @@
 
 ---
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="" target="_blank">
