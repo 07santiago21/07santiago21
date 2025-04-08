@@ -13,7 +13,7 @@
 ### 🛠️ Tecnologías que uso frecuentemente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql" />
 </p>
 
 ---
