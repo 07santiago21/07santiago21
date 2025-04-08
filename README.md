@@ -1,19 +1,24 @@
 <h1 align="center">Hola 👋, soy Santiago</h1>
-<h3 align="center">Desarrollador entusiasta de la tecnología, apasionado por el aprendizaje continuo y la creación de soluciones digitales.</h3>
+<h3 align="center">Desarrollador entusiasta con muchas ganas de aprender, mejorar y crear soluciones digitales que marquen la diferencia.</h3>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos personales con **Flutter**, **TypeScript** y **Python**
-- 🌱 Aprendiendo más sobre **arquitectura limpia** y **bases de datos**
-- 💬 Me encanta hablar sobre **desarrollo**, **DB** y **automatización**
+### 🧠 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad de Medellín** (7° semestre)  
+- 🔭 Actualmente trabajando en proyectos personales con **Flutter**, **TypeScript** y **Python**  
+- 🌱 Aprendiendo más sobre **estructuras de datos**, **buenas prácticas** y **diseño de software**  
+- 💾 Apasionado por las **bases de datos**, tanto **relacionales (MySQL, MariaDB, Microsoft SQL Server)** como **no relacionales (MongoDB, Firebase)**  
+- 👨‍💻 He trabajado en **proyectos reales** utilizando **Next.js**, **Python** y **bases de datos no SQL**, aplicando conceptos de backend y persistencia de datos  
+
 ---
 
 ### 🛠️ Tecnologías que uso frecuentemente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql,,mongodb,firebase" />
 </p>
 
 ---
@@ -30,7 +35,7 @@
 ### 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=07santiago21&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07santiago21&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -38,10 +43,10 @@
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/07santiago21" target="_blank">
