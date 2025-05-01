@@ -16,7 +16,7 @@
 ### 🛠️ Technologies I Frequently Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,git,github,vscode,mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,git,github,vscode,mysql,mongodb" />
 </p>
 
 ---
