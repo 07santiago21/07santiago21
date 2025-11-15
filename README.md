@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Systems Engineering student** at **Universidad de Medellín** (7th semester)  
+- 🎓 **Systems Engineering student** at **Universidad de Medellín** (8th semester)  
 - 🔭 Currently working on personal projects using **Flutter**, **TypeScript**, and **Python**  
 - 🌱 Focused on improving my knowledge in **data structures**, **best practices**, and **software design**  
 - 👨‍💻 I've worked on **real-world projects** using **Next.js**, **Python**, and **NoSQL databases**, applying backend and data persistence concepts  
